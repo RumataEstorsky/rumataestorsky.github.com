@@ -5,7 +5,7 @@
     <artifactId>sapsan_2.10</artifactId>
     <packaging>jar</packaging>
     <description>sapsan</description>
-    <version>0.1</version>
+    <version>0.2</version>
     <name>sapsan</name>
     <organization>
         <name>ru.myscala</name>
