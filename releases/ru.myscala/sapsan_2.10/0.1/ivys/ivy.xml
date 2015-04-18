@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+<<<<<<< HEAD
 	<info organisation="ru.myscala" module="sapsan_2.10" revision="0.1" status="release" publication="20150418135652">
+=======
+	<info organisation="ru.myscala" module="sapsan_2.10" revision="0.1" status="release" publication="20131125172500">
+>>>>>>> 2e0c0cf44701b47537a76eb31c30a2717fb8639e
 		<description>
 		sapsan
 		</description>
